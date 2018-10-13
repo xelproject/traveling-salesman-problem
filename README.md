@@ -16,7 +16,7 @@ The TSP has several applications even in its purest formulation, such as plannin
 The best reported tour for the World TSP was found by by Keld Helsgaun using a variant of his LKH heuristic algorithm. The tour of length 7,515,772,107 was found on March 13, 2018
 
 # XEL Soliution 
-![](xel-medias/logos/48x48.png)
+
 
 ![](world.anim1a.gif)
 
