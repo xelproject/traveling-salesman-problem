@@ -1,3 +1,9 @@
+# You can winn 2000 XEL
+* We have example of [BF algorithm]( https://github.com/xel-software/xeline/blob/master/demos/TSP_Example.epl) but its cant solve it .
+* We have exemple of [Algorithm:	Simulated Annealing Solution](https://github.com/sprocket-fpga/xel_miner/blob/master/examples/TSP_ATT48_SA.pl) And this one can take cear of things easly . 
+* Your job to make this script to work with ePL and be first to clame it prize !! 
+* Contact community administration to claim your XEL .
+
 # Traveling Salesman Problem
 
 The travelling salesman problem (TSP) asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?" It is an NP-hard problem in combinatorial optimization, important in operations research and theoretical computer science.
@@ -14,8 +20,3 @@ The problem was first formulated in 1930 and is one of the most intensively stud
 The TSP has several applications even in its purest formulation, such as planning, logistics, and the manufacture of microchips. Slightly modified, it appears as a sub-problem in many areas, such as DNA sequencing. In these applications, the concept city represents, for example, customers, soldering points, or DNA fragments, and the concept distance represents travelling times or cost, or a similarity measure between DNA fragments. The TSP also appears in astronomy, as astronomers observing many sources will want to minimize the time spent moving the telescope between the sources. In many applications, additional constraints such as limited resources or time windows may be imposed .
 
 The best reported tour for the World TSP was found by by Keld Helsgaun using a variant of his LKH heuristic algorithm. The tour of length 7,515,772,107 was found on March 13, 2018
-
-# You can winn 2000 xel 
-* We have example of [BF algorithm]( https://github.com/xel-software/xeline/blob/master/demos/TSP_Example.epl) but its cant solve it .
-* We have exemple of [Algorithm:	Simulated Annealing Solution](https://github.com/sprocket-fpga/xel_miner/blob/master/examples/TSP_ATT48_SA.pl) And this one can take cear of things easly . 
-* Your job to make this script to work with ePL and be first to clame it prize !! 
