@@ -15,66 +15,7 @@ The TSP has several applications even in its purest formulation, such as plannin
 
 The best reported tour for the World TSP was found by by Keld Helsgaun using a variant of his LKH heuristic algorithm. The tour of length 7,515,772,107 was found on March 13, 2018
 
-# XEL Soliution 
-
-
-![](world.anim1a.gif)
-
-
- * Name:		Travelling Salesman Problem 
- * Diminsions:	2 mil x 2 mil
- * Weight Type:	ATT - Pseudo-Euclidean distance
- * Algorithm:	
-
- 
-
-# Source 
-
-http://www.math.uwaterloo.ca/tsp/world/
-
-# Raw file for cities 
-
-http://www.math.uwaterloo.ca/tsp/world/world.tsp.gz (Gzipped TSPLIB Format, world.tsp.gz, 11.5 mbytes) 
-
-# Special thanks
-
-https://github.com/any1dot
-
-for helping with sorting out raw data . 
-
-https://github.com/tieandsuit/walking-problem-/blob/master/Main.java
-
-```java
-import java.io.File;
-import java.util.Scanner;
-
-public class Main {
-
-    public static void main(String[] args) throws  Exception {
-
-        File file = new File("input.txt");
-        Scanner input = new Scanner(file);
-
-        int i = 100;
-        while(input.hasNext()) {
-            try
-            {
-                String nextLine = input.nextLine();
-                String[] fields = nextLine.split(" ");
-                System.out.println("u["+i+"] = " + fields[1] + ";");
-                i++;
-                System.out.println("u["+i+"] = " + fields[2] + ";");
-                i++;
-            }
-            catch(Exception e)
-            {
-
-            }
-
-        }
-        input.close();
-    }
-}
-```
-# It's not usable at this stage . Please wait for update .
-![](waitingcat.gif)
+# You can winn 2000 xel 
+* We have example of [BF algorithm]( https://github.com/xel-software/xeline/blob/master/demos/TSP_Example.epl) but its cant solve it .
+* We have exemple of [Algorithm:	Simulated Annealing Solution](https://github.com/sprocket-fpga/xel_miner/blob/master/examples/TSP_ATT48_SA.pl) And this one can take cear of things easly . 
+* Your job to make this script to work with ePL and be first to clame it prize !! 
