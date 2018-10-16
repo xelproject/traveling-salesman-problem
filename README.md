@@ -24,21 +24,9 @@ The best reported tour for the World TSP was found by by Keld Helsgaun using a v
  * Name:		Travelling Salesman Problem 
  * Diminsions:	2 mil x 2 mil
  * Weight Type:	ATT - Pseudo-Euclidean distance
- * Algorithm:	Brute Force
+ * Algorithm:	
 
- # Memory Map
- *   Round Number:         x
- *   Random Input:         x
- *   Cost Matrix Vars:		 x
- *   X Dist & Y Dist:		   x
- *   Distance Point A to B x
- *   Algorithm Variables:	 x
- *   Calculated Distance:	 x
- *   Loop Counters:			   x
- *   Path Data:   			   x
- *   Cost Matrix:          x 	
-
-we will try to use decentralised computing engine to solve this problem .
+ 
 
 # Source 
 
