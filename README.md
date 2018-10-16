@@ -1,4 +1,4 @@
-# You can win 2000 XEL
+# Claim your 2000 XEL
 * We have example of [BF algorithm]( https://github.com/xel-software/xeline/blob/master/demos/TSP_Example.epl) but its cant solve it .
 * We have exemple of [Algorithm:	Simulated Annealing Solution](https://github.com/xel-community/traveling-salesman-problem/blob/master/TSP_ATT48_SA.epl) And this one can take cear of things easly . 
 * Your job to make this script to work with ePL and be first to clame it prize !! 
